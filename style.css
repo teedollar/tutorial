@@ -208,12 +208,12 @@ a:hover {
 /* Page */
 
 #main-body {
-	max-width: 90px;
+	max-width: 0px;
 	justify-content: center;
 }
 
 #page {
-	max-width: 85%;
+	max-width: 100%;
 	margin: 0 auto;
 	padding: 60px 20px 30px 20px;
 	background: #FFFFFF;
@@ -531,7 +531,7 @@ ul.style1 .first {
 
 #featured-content {
 	overflow: hidden;
-	max-width: 85%;
+	max-width: 100%;
 	margin: 0px auto;
 	padding: 0px 20px 30px 20px;
 	justify-content: center;
