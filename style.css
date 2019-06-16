@@ -213,9 +213,8 @@ a:hover {
 }
 
 #page {
-	max-width: 100%;
 	margin: 0 auto;
-	padding: 60px 20px 30px 20px;
+	padding: 60px 10px 30px 10px;
 	background: #FFFFFF;
 	justify-content: center;
 }
@@ -531,9 +530,8 @@ ul.style1 .first {
 
 #featured-content {
 	overflow: hidden;
-	max-width: 100%;
 	margin: 0px auto;
-	padding: 0px 20px 30px 20px;
+	padding: 0px 10px 30px 10px;
 	justify-content: center;
 }
 
